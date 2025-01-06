@@ -1,0 +1,55 @@
+2025-01-06 04:52:01.467 UTC [1892] LOG:  starting PostgreSQL 14.15 (Ubuntu 14.15-1.pgdg20.04+1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 9.4.0-1ubuntu1~20.04.2) 9.4.0, 64-bit
+2025-01-06 04:52:01.468 UTC [1892] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-01-06 04:52:01.468 UTC [1892] LOG:  could not bind IPv6 address "::1": Cannot assign requested address
+2025-01-06 04:52:01.470 UTC [1892] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+2025-01-06 04:52:01.474 UTC [1893] LOG:  database system was shut down at 2025-01-06 04:52:01 UTC
+2025-01-06 04:52:01.480 UTC [1892] LOG:  database system is ready to accept connections
+2025-01-06 04:52:01.719 UTC [1892] LOG:  received fast shutdown request
+2025-01-06 04:52:01.720 UTC [1892] LOG:  aborting any active transactions
+2025-01-06 04:52:01.722 UTC [1892] LOG:  background worker "logical replication launcher" (PID 1899) exited with exit code 1
+2025-01-06 04:52:01.723 UTC [1894] LOG:  shutting down
+2025-01-06 04:52:01.735 UTC [1892] LOG:  database system is shut down
+2025-01-06 05:31:25.059 UTC [1665] LOG:  starting PostgreSQL 14.15 (Ubuntu 14.15-1.pgdg20.04+1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 9.4.0-1ubuntu1~20.04.2) 9.4.0, 64-bit
+2025-01-06 05:31:25.059 UTC [1665] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-01-06 05:31:25.059 UTC [1665] LOG:  could not bind IPv6 address "::1": Cannot assign requested address
+2025-01-06 05:31:25.061 UTC [1665] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+2025-01-06 05:31:25.066 UTC [1666] LOG:  database system was shut down at 2025-01-06 04:56:38 UTC
+2025-01-06 05:31:25.070 UTC [1665] LOG:  database system is ready to accept connections
+2025-01-06 05:31:25.202 UTC [1665] LOG:  received fast shutdown request
+2025-01-06 05:31:25.203 UTC [1665] LOG:  aborting any active transactions
+2025-01-06 05:31:25.205 UTC [1665] LOG:  background worker "logical replication launcher" (PID 1672) exited with exit code 1
+2025-01-06 05:31:25.206 UTC [1667] LOG:  shutting down
+2025-01-06 05:31:25.219 UTC [1665] LOG:  database system is shut down
+2025-01-06 07:31:23.480 UTC [1659] LOG:  starting PostgreSQL 14.15 (Ubuntu 14.15-1.pgdg20.04+1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 9.4.0-1ubuntu1~20.04.2) 9.4.0, 64-bit
+2025-01-06 07:31:23.481 UTC [1659] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-01-06 07:31:23.481 UTC [1659] LOG:  could not bind IPv6 address "::1": Cannot assign requested address
+2025-01-06 07:31:23.484 UTC [1659] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+2025-01-06 07:31:23.488 UTC [1660] LOG:  database system was shut down at 2025-01-06 06:43:15 UTC
+2025-01-06 07:31:23.495 UTC [1659] LOG:  database system is ready to accept connections
+2025-01-06 07:31:23.620 UTC [1659] LOG:  received fast shutdown request
+2025-01-06 07:31:23.621 UTC [1659] LOG:  aborting any active transactions
+2025-01-06 07:31:23.624 UTC [1659] LOG:  background worker "logical replication launcher" (PID 1666) exited with exit code 1
+2025-01-06 07:31:23.624 UTC [1661] LOG:  shutting down
+2025-01-06 07:31:23.644 UTC [1659] LOG:  database system is shut down
+2025-01-06 07:31:49.654 UTC [1665] LOG:  starting PostgreSQL 14.15 (Ubuntu 14.15-1.pgdg20.04+1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 9.4.0-1ubuntu1~20.04.2) 9.4.0, 64-bit
+2025-01-06 07:31:49.654 UTC [1665] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-01-06 07:31:49.654 UTC [1665] LOG:  could not bind IPv6 address "::1": Cannot assign requested address
+2025-01-06 07:31:49.658 UTC [1665] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+2025-01-06 07:31:49.663 UTC [1666] LOG:  database system was shut down at 2025-01-06 07:31:28 UTC
+2025-01-06 07:31:49.669 UTC [1665] LOG:  database system is ready to accept connections
+2025-01-06 07:31:49.775 UTC [1665] LOG:  received fast shutdown request
+2025-01-06 07:31:49.777 UTC [1665] LOG:  aborting any active transactions
+2025-01-06 07:31:49.780 UTC [1665] LOG:  background worker "logical replication launcher" (PID 1672) exited with exit code 1
+2025-01-06 07:31:49.780 UTC [1667] LOG:  shutting down
+2025-01-06 07:31:49.800 UTC [1665] LOG:  database system is shut down
+2025-01-06 07:36:49.683 UTC [1661] LOG:  starting PostgreSQL 14.15 (Ubuntu 14.15-1.pgdg20.04+1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 9.4.0-1ubuntu1~20.04.2) 9.4.0, 64-bit
+2025-01-06 07:36:49.683 UTC [1661] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-01-06 07:36:49.683 UTC [1661] LOG:  could not bind IPv6 address "::1": Cannot assign requested address
+2025-01-06 07:36:49.686 UTC [1661] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+2025-01-06 07:36:49.691 UTC [1662] LOG:  database system was shut down at 2025-01-06 07:36:34 UTC
+2025-01-06 07:36:49.697 UTC [1661] LOG:  database system is ready to accept connections
+2025-01-06 07:36:49.832 UTC [1661] LOG:  received fast shutdown request
+2025-01-06 07:36:49.833 UTC [1661] LOG:  aborting any active transactions
+2025-01-06 07:36:49.835 UTC [1661] LOG:  background worker "logical replication launcher" (PID 1668) exited with exit code 1
+2025-01-06 07:36:49.836 UTC [1663] LOG:  shutting down
+2025-01-06 07:36:49.848 UTC [1661] LOG:  database system is shut down
